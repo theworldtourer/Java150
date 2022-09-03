@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        Exercises007.first();
+        Exercises008.first();
     }
 }
