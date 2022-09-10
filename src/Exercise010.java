@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercises010 {
+public class Exercise010 {
     public static void first(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input a number:");

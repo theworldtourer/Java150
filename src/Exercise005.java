@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercises005 {
+public class Exercise005 {
     public static void first () {
         Scanner scanner = new Scanner( System.in); //scanner metodu öğrenildi.
 

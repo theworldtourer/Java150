@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercises011 {
+public class Exercise011 {
     public static void first(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input a Radius of Circle:");

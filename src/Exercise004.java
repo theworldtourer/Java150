@@ -1,4 +1,4 @@
-public class Exercises004 {
+public class Exercise004 {
     public static void first () {
         int a = -5 + 8 * 6;
         int b = (55 + 9) % 9;

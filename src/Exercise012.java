@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercises012 {
+public class Exercise012 {
     public static void first(){
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input first number:");
