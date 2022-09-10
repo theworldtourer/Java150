@@ -6,6 +6,5 @@ public class Exercise016 {
                 " |  ^  |                                                 \n" +
                 " | '-' |                                                 \n" +
                 " +-----+");
-
     }
 }
