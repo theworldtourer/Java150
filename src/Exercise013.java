@@ -8,7 +8,7 @@ public class Exercise013 {
         System.out.print("Height:");
         double valHeight = rect.nextDouble();
 
-        System.out.println("Perimeter:" + (2*(valHeight+valHeight)));
+        System.out.println("Perimeter:" + (2*(valWeight+valHeight)));
         System.out.println("Area:" + valWeight*valHeight);
     }
 }
